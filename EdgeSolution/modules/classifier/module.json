@@ -1,0 +1,16 @@
+{
+  "$schema-version": "0.0.1",
+  "description": "",
+  "image": {
+    "repository": "bloodcellcrlilsqss5aih4i.azurecr.io/classifier",
+    "tag": {
+      "version": "0.1.4",
+      "platforms": {
+        "arm32v7": "./Dockerfile"
+      }
+    },
+    "buildOptions": [],
+    "contextPath": "./"
+  },
+  "language": "python"
+}
